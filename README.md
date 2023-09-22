@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Wilker Sebastian Afosno Pereira 🇧🇷</h1>
+<h1 align="center"> Hi 👋, I'm Wilker Sebastian Afonso Pereira 🇧🇷</h1>
 <h3 align="center">I am a student of computer science at UFMS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bandeira_de_Mato_Grosso_do_Sul.svg/640px-Bandeira_de_Mato_Grosso_do_Sul.svg.png" width="30" height="20">. I love developing WEB(backend) and GAMES, but I'm always learning new things and creating applications of all kinds.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilkersebastian&label=Profile%20views&color=0e75b6&style=flat" alt="wilkersebastian" /> </p>
